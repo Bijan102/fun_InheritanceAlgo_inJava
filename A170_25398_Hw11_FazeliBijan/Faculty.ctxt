@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Faculty()
+comment0.text=\n\ Defualt\ Constructor\ using\ this()\ to\ call\ the\ 2-argument\ constructor\n
+comment1.params=ssn\ name
+comment1.target=Faculty(int,\ java.lang.String)
+comment1.text=\n\ <strong>Overloaded\ Constructor</strong>\n\ <ul><li><strong>Action\:</strong>\ \ \ \ \ \ \ \ \ Saves\ the\ argument\ values\ into\ the\ instance\ variables.\ </li>\n\ <li><strong>Precondition\:</strong>\ \ \ \ \ \ \ N/A.\ </li>\n\ <li><strong>Postcondition\:</strong>\ \ \ \ \ \ An\ object\ is\ created\ and\ set\ to\ the\ values\ of\ the\ parameters.</li>\n\ \n\ @param\ \ \ <strong>ssn</strong>\ \ \ \ \ An\ int\ that\ stores\ a\ Social\ Security\ number.\n\ @param\ \ \ <strong>name</strong>\ \ \ \ A\ string\ that\ stores\ a\ name.\n\ \n
+comment2.params=
+comment2.target=int\ getSSN()
+comment2.text=\n\ <strong>Accessor\ Method</strong>\n\ <ul><li><strong>Action\:</strong>\ \ \ \ \ \ \ \ \ Returns\ the\ ssn\ of\ the\ current\ object\ to\ the\ calling\ method.\ </li>\n\ <li><strong>Precondition\:</strong>\ \ \ \ \ \ \ Ssn\ has\ been\ initialized.\ </li>\n\ <li><strong>Postcondition\:</strong>\ \ \ \ \ \ Returns\ a\ Social\ Security\ Number.</li>\n\ \n\ @param\ \ \ \ <strong>none</strong>\n\ @return\ \ \ <strong>ssn</strong>\n\ \n
+comment3.params=ssn
+comment3.target=void\ setSSN(int)
+comment3.text=\n\ <strong>Mutator\ Method</strong>\n\ <ul><li><strong>Action\:</strong>\ \ \ \ \ \ \ \ \ Sets\ the\ current\ object's\ ssn\ to\ the\ value\ that\ is\ passed\ through\ the\ method.\ </li>\n\ <li><strong>Precondition\:</strong>\ \ \ \ \ \ \ N/A.\ </li>\n\ <li><strong>Postcondition\:</strong>\ \ \ \ \ \ The\ current\ object's\ ssn\ is\ assigned\ a\ new\ value.</li>\n\ \n\ @param\ \ \ <strong>ssn</strong>\ \ \ \ \ \ \ \ \ \ \ \ An\ int\ that\ stores\ a\ Social\ Security\ number.\n\ @return\ \ <strong>none</strong>\n\ \n
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment4.text=\n\ <strong>Accessor\ Method</strong>\n\ <ul><li><strong>Action\:</strong>\ \ \ \ \ \ \ \ \ Returns\ the\ name\ of\ the\ current\ object\ to\ the\ calling\ method.\ </li>\n\ <li><strong>Precondition\:</strong>\ \ \ \ \ \ \ Name\ has\ been\ initialized.\ </li>\n\ <li><strong>Postcondition\:</strong>\ \ \ \ \ \ Returns\ a\ name.</li>\n\ \n\ @param\ \ \ \ <strong>none</strong>\n\ @return\ \ \ <strong>name</strong>\n\ \n
+comment5.params=name
+comment5.target=void\ setName(java.lang.String)
+comment5.text=\n\ <strong>Mutator\ Method</strong>\n\ <ul><li><strong>Action\:</strong>\ \ \ \ \ \ \ \ \ Sets\ the\ current\ object's\ name\ to\ the\ value\ that\ is\ passed\ through\ the\ method.\ </li>\n\ <li><strong>Precondition\:</strong>\ \ \ \ \ \ \ N/A.\ </li>\n\ <li><strong>Postcondition\:</strong>\ \ \ \ \ \ The\ current\ object's\ name\ is\ assigned\ a\ new\ value.</li>\n\ \n\ @param\ \ \ <strong>name</strong>\ \ \ \ \ \ \ \ \ \ \ A\ string\ that\ stores\ a\ name.\n\ \n
+comment6.params=
+comment6.target=void\ print()
+comment6.text=\n\ <strong>Display\ Method</strong>\n\ <ul><li><strong>Action\:</strong>\ \ \ \ \ \ \ \ \ Prints\ the\ value\ of\ the\ name\ and\ SSN\ with\ a\ meaningful\ message\ </li>\n\ <li><strong>Precondition\:</strong>\ \ \ \ \ \ \ Name\ and\ ssn\ have\ been\ initialized.\ </li>\n\ <li><strong>Postcondition\:</strong>\ \ \ \ \ \ Prints\ the\ current\ object's\ name\ and\ ssn\ when\ called</li>\n\ \n\ @param\ \ \ <strong>none</strong>\n\ @return\ \ <strong>none</strong>\n\ \n
+comment7.params=Obj2
+comment7.target=boolean\ equals(Faculty)
+comment7.text=\n\ <strong>Overrided\ Equals\ Method</strong>\n\ <ul><li><strong>Action\:</strong>\ \ \ \ \ \ \ \ \ Returns\ a\ boolean\ value\ if\ obj1\ is\ equal\ to\ obj2\ </li>\n\ <li><strong>Precondition\:</strong>\ \ \ \ \ \ \ Obj1\ and\ obj2\ have\ been\ created\ </li>\n\ <li><strong>Postcondition\:</strong>\ \ \ \ \ \ Returns\ a\ boolean.</li>\n\ \n\ @param\ \ \ \ <strong>none</strong>\n\ @return\ \ \ <strong>name</strong>\n\ \n
+numComments=8

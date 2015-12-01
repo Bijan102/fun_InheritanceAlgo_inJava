@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FullTimeFaculty()
+comment0.text=\n\ Defualt\ Constructor\ using\ this()\ to\ call\ the\ 3-argument\ constructor\n
+comment1.params=ssn\ name\ salary
+comment1.target=FullTimeFaculty(int,\ java.lang.String,\ double)
+comment1.text=\n\ <strong>Overloaded\ Constructor</strong>\n\ <ul><li><strong>Action\:</strong>\ \ \ \ \ \ \ \ \ Saves\ the\ argument\ values\ into\ the\ instance\ variables.\ </li>\n\ <li><strong>Precondition\:</strong>\ \ \ \ \ \ \ N/A.\ </li>\n\ <li><strong>Postcondition\:</strong>\ \ \ \ \ \ An\ object\ is\ created\ and\ set\ to\ the\ values\ of\ the\ parameters.</li>\n\ \n\ @param\ \ \ <strong>ssn</strong>\ \ \ \ \ \ \ \ \ \ \ \ An\ int\ that\ stores\ a\ Social\ Security\ number.\n\ @param\ \ \ <strong>name</strong>\ \ \ \ \ \ \ \ \ \ \ A\ string\ that\ stores\ a\ name.\n\ @param\ \ \ <strong>salary</strong>\ \ \ \ \ \ \ \ \ A\ double\ that\ stores\ a\ salary.\ \n\ \n
+comment2.params=
+comment2.target=double\ getSalary()
+comment2.text=\n\ <strong>Accessor\ method</strong>\n\ <ul><li><strong>Action\:</strong>\ \ \ \ \ \ \ \ \ Returns\ the\ salary\ of\ the\ current\ object\ to\ the\ calling\ method.\ </li>\n\ <li><strong>Precondition\:</strong>\ \ \ \ \ \ \ Salary\ has\ been\ initialized.\ </li>\n\ <li><strong>Postcondition\:</strong>\ \ \ \ \ \ Returns\ the\ object's\ current\ salary.</li>\n\ \n\ @param\ \ \ \ <strong>none</strong>\n\ @return\ \ \ <strong>salary</strong>\n\ \n
+comment3.params=salary
+comment3.target=void\ setSalary(double)
+comment3.text=\n\ <strong>Mutator\ method</strong>\n\ <ul><li><strong>Action\:</strong>\ \ \ \ \ \ \ \ \ Sets\ the\ current\ object's\ ssn\ to\ the\ value\ that\ is\ passed\ through\ the\ method.\ </li>\n\ <li><strong>Precondition\:</strong>\ \ \ \ \ \ \ N/A.\ </li>\n\ <li><strong>Postcondition\:</strong>\ \ \ \ \ \ The\ current\ object's\ salary\ is\ assigned\ a\ new\ value.</li>\n\ \n\ @param\ \ \ <strong>salary</strong>\ \ \ \ \ \ \ \ \ An\ double\ that\ stores\ a\ salary.\n\ @return\ \ <strong>none</strong>\n\ \n
+comment4.params=
+comment4.target=void\ print()
+comment4.text=\n\ <strong>Display\ method</strong>\n\ <ul><li><strong>Action\:</strong>\ \ \ \ \ \ \ \ \ Prints\ the\ value\ of\ the\ name,\ ssn,\ and\ salary\ with\ a\ meaningful\ message\ </li>\n\ <li><strong>Precondition\:</strong>\ \ \ \ \ \ \ Name,\ ssn\ and\ salary\ have\ been\ initialized.\ </li>\n\ <li><strong>Postcondition\:</strong>\ \ \ \ \ \ Prints\ the\ current\ object's\ name,\ ssn\ and\ salary\ when\ called</li>\n\ \n\ @param\ \ \ <strong>none</strong>\n\ @return\ \ <strong>none</strong>\n\ \n
+comment5.params=Obj2
+comment5.target=boolean\ equals(FullTimeFaculty)
+comment5.text=\n\ <strong>Overrided\ Equals\ Method</strong>\n\ <ul><li><strong>Action\:</strong>\ \ \ \ \ \ \ \ \ Returns\ a\ boolean\ value\ if\ obj1's\ name,\ ssn,\ and\ salary\ are\ equal\ to\ obj2's\ </li>\n\ <li><strong>Precondition\:</strong>\ \ \ \ \ \ \ Obj1\ and\ obj2\ have\ been\ created\ </li>\n\ <li><strong>Postcondition\:</strong>\ \ \ \ \ \ Returns\ a\ boolean.</li>\n\ \n\ @param\ \ \ \ <strong>none</strong>\n\ @return\ \ \ <strong>name</strong>\n\ \n
+numComments=6

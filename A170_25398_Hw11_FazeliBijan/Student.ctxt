@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Student()
+comment1.params=initialName\ initialStudentNumber
+comment1.target=Student(java.lang.String,\ int)
+comment2.params=newName\ newStudentNumber
+comment2.target=void\ reset(java.lang.String,\ int)
+comment3.params=
+comment3.target=int\ getStudentNumber()
+comment4.params=newStudentNumber
+comment4.target=void\ setStudentNumber(int)
+comment5.params=
+comment5.target=void\ writeOutput()
+comment6.params=otherStudent
+comment6.target=boolean\ equals(Student)
+numComments=7
