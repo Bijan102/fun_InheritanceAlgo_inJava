@@ -1,10 +1,23 @@
-
 /**
- * Write a description of class FacultyTest here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
+ * Student name:        Fazeli, Bijan
+ * CRN # :              25398
+ *  Course:             CS 170
+ *  Semester:           Fall 2015
+ *  Date:               11/02/15
+ *
+ *  Chapter#:           08
+ *  ProjectName:        FacultyTest
+ *  File/Class name:    FacultyTest.java
+ *  
+ *  Concepts used:      Used variables to store values using keyboard input, and made use of methods 
+ *                      while problem solving using loops to go through an array of objects. 
+ *                      Commented the document source code for clarity.
+ *
+ *  Program Statement:  This program gets and displays full-time and part-time faculty information
+ *  
+ *  Assumptions:        Value entered from the user follows the instuctions.
  */
+
 
 //import java library
 import java.util.Scanner;

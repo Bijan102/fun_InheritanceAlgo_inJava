@@ -1,10 +1,21 @@
-
 /**
- * Write a description of class Faculty here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
+ * Student name:        Fazeli, Bijan
+ * CRN # :              25398
+ *  Course:             CS 170
+ *  Semester:           Fall 2015
+ *  Date:               11/30/15
+ *
+ *  Chapter#:           08
+ *  ProjectName:        Doctor
+ *  File/Class name:    Doctor.java
+ *  
+ *  Concepts used:      Created overloaded constructors and methods for object instantiation
+ *
+ *  Program Statement:  A class to be used in the main method
+ *  
+ *  Assumptions:        No assumptions needed.
  */
+
 public class Doctor extends Person
 {
     // Create a constant 'OFFICE_FEE' of type double and initialize it to 150.00
@@ -21,7 +32,7 @@ public class Doctor extends Person
     public Doctor()
     {
         // initialise instance variables
-        this("N/A", OFFICE_FEE, "None given");
+        this("No name yet.", OFFICE_FEE, "None given.");
     }
 
     /**

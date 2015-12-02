@@ -1,10 +1,21 @@
-
 /**
- * Write a description of class Faculty here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
+ * Student name:        Fazeli, Bijan
+ * CRN # :              25398
+ *  Course:             CS 170
+ *  Semester:           Fall 2015
+ *  Date:               11/30/15
+ *
+ *  Chapter#:           08
+ *  ProjectName:        Person
+ *  File/Class name:    Person.java
+ *  
+ *  Concepts used:      Created overloaded constructors and methods for object instantiation
+ *
+ *  Program Statement:  A class to be used in the main method
+ *  
+ *  Assumptions:        No assumptions needed.
  */
+
 public class Person
 {
     // instance variables - replace the example below with your own
